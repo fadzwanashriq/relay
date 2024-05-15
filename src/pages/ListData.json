@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "topic": "Sleep Patterns and Academic Performance",
+      "description": "Dataset capturing the sleep habits of students and their correlation with academic performance."
+    },
+    {
+      "id": 2,
+      "topic": "CGPA Distribution among Students",
+      "description": "Dataset containing the CGPA (Cumulative Grade Point Average) scores of students from different backgrounds."
+    },
+    {
+      "id": 3,
+      "topic": "B40 Students' Academic Achievement",
+      "description": "Dataset focusing on the academic performance of students from the B40 socio-economic group."
+    },
+    {
+      "id": 4,
+      "topic": "Student Engagement and Academic Success",
+      "description": "Dataset examining the relationship between student engagement levels and academic success."
+    },
+    {
+      "id": 5,
+      "topic": "Study Habits and Exam Performance",
+      "description": "Dataset analyzing the study habits of students and their impact on exam performance."
+    },
+    {
+      "id": 6,
+      "topic": "Time Management and Academic Achievement",
+      "description": "Dataset exploring the relationship between time management skills and academic achievement."
+    },
+    {
+      "id": 7,
+      "topic": "Extracurricular Activities and Academic Performance",
+      "description": "Dataset investigating the influence of participation in extracurricular activities on academic performance."
+    },
+    {
+      "id": 8,
+      "topic": "Student Mental Health and Academic Success",
+      "description": "Dataset examining the mental health status of students and its association with academic success."
+    },
+    {
+      "id": 9,
+      "topic": "Impact of Technology Use on Learning Outcomes",
+      "description": "Dataset studying the impact of technology use, such as smartphones or laptops, on students' learning outcomes."
+    },
+    {
+      "id": 10,
+      "topic": "Parental Involvement and Student Achievement",
+      "description": "Dataset exploring the role of parental involvement in students' academic achievement."
+    },
+    {
+      "id": 11,
+      "topic": "Socio-economic Status and Educational Attainment",
+      "description": "Dataset analyzing the relationship between socio-economic status and educational attainment."
+    },
+    {
+      "id": 12,
+      "topic": "Student Loan Debt and Academic Performance",
+      "description": "Dataset examining the impact of student loan debt on students' academic performance."
+    },
+    {
+      "id": 13,
+      "topic": "Access to Educational Resources in Low-Income Schools",
+      "description": "Dataset focusing on the availability and quality of educational resources in low-income schools."
+    },
+    {
+      "id": 14,
+      "topic": "Gender Disparities in STEM Fields",
+      "description": "Dataset exploring gender disparities in enrollment and performance in STEM (Science, Technology, Engineering, and Mathematics) fields."
+    },
+    {
+      "id": 15,
+      "topic": "Impact of Classroom Environment on Learning",
+      "description": "Dataset studying the influence of classroom environment, such as lighting or classroom design, on student learning outcomes."
+    },
+    {
+      "id": 16,
+      "topic": "Student Dropout Rates and Risk Factors",
+      "description": "Dataset analyzing student dropout rates and identifying potential risk factors contributing to dropout."
+    },
+    {
+      "id": 17,
+      "topic": "Impact of Peer Influence on Academic Performance",
+      "description": "Dataset examining the influence of peer groups on students' academic performance."
+    },
+    {
+      "id": 18,
+      "topic": "Student Satisfaction with Higher Education",
+      "description": "Dataset measuring student satisfaction levels with their educational experience in higher education institutions."
+    },
+    {
+      "id": 19,
+      "topic": "Access to Scholarships and Academic Achievement",
+      "description": "Dataset investigating the impact of scholarship availability on students' academic achievement."
+    },
+    {
+      "id": 20,
+      "topic": "Educational Disparities among Ethnic Groups",
+      "description": "Dataset exploring educational disparities among different ethnic groups and identifying potential factors contributing to these disparities."
+    }
+  ]
