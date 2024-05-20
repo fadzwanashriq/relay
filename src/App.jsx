@@ -1,6 +1,7 @@
 import { React, useState } from "react";
 import TextField from "@mui/material/TextField";
 import List from "./pages/List";
+import FileUploader from "./pages/FileUploader";
 import "./App.css";
 
 function App() {
@@ -23,6 +24,8 @@ function App() {
         />
       </div>
       <List input={inputText} />
+      <FileUploader/>
+
     </div>
   );
 }
