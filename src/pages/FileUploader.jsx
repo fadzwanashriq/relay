@@ -17,6 +17,9 @@ const FileUploader = () => {
         <div className='drop-area' 
         onDragOver={(e) => e.preventDefault()}
         onDrop={handleDrop}
+        style={{
+            border: '1px solid red'
+        }}
         >
 
         <p>Drag your files google sheet</p>
